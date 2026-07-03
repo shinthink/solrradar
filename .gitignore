@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.log
+solr_results.json
+.vscode/
+.idea/
